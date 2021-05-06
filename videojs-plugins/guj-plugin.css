@@ -1,0 +1,5 @@
+.video__player .vjs-ad-control-bar .vjs-custom-control-spacer::before {
+    content: "Anzeige";
+    line-height: 3em;
+    margin-left: 8px;
+  }
